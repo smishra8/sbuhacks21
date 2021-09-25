@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Astronomy Clear Sky Forecast Plugin",
+    "description": "This extension will display weather and clear sky forecasts for astronomers to view",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "1651932_bethlehem_christmas_light_ornamen_star_icon.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
